@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muratalisahin MuratAli Şahin
-- 👀 I’m interested in ...
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning ... Frontend Development
 <!---
 muratalisahin/muratalisahin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
