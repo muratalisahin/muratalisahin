@@ -1,6 +1,6 @@
 - 👋 Hi, I’m
 - -Mail:muratalisahin61@gmail.com --you can reach me here
-- Hello, I am Murat Ali Şahin, I am a KTÜ Vocational School COMPUTER TECHNOLOGY GRADUATE, I AM RECEIVING TRAINING FROM UDEMIG.
+- Hello, I am Murat Ali Şahin, I am a KTÜ Vocational School COMPUTER TECHNOLOGY GRADUATE
 - 👀 I’m interested in software development
 - 🌱 I’m  What I know as a software developer
      from programming languages
